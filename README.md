@@ -49,4 +49,19 @@ To restrict LLMs to custom data, you can build a knowledge base by uploading dat
 | YouTube  | YouTube (Google) | One-time |
 
 
+## FAQs
 
+### Can I collaborate with other people/teams on Corbett?
+Yes you can. Once you upload your files in Corbett, it generates a knowledge ID. You can share this knowledge ID with other users (or your team) and you can collaborate with them.
+
+### Can I give html links as a knowledge source in Corbett?
+Yes you can. Corbett will extract text from the webpage and use it as a knowledge source, but we recommend that you save the page first on your local resource and then upload it on Corbett.
+
+### How much data do I need to upload in order for the LLM to answer my queries? 
+The quality of the answer is dependent on the quality of the knowledge base. Remember, the LLM cannot give an answer to a query which doesn’t have an answer in the knowledge base. It’s a matter of quality not quantity.
+
+### What if Corbett is not able to answer my question or gives the wrong answer?
+You can try changing the LLM that you are using, we provide a wide range of commercially available and open source models. If it still doesn’t work, then the LLMs may be having difficulty in processing the question. We recommend rephrasing the question in this case. If the answer is still not satisfactory there might be other problems, for instance, it may happen that the knowledge base doesn’t have an answer. In rare cases, the LLM might be hallucinating. 
+
+### Can Corbett process diagrams in the knowledge base?
+It depends on the complexity of the diagram and the particular LLM being used.
