@@ -1,5 +1,5 @@
 # Corbett by AI Library
-Explore AI models and create AI applications without coding
+Explore multi-model AI models and build AI applications without coding
 
 ## Introduction
 
